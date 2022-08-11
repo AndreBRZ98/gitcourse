@@ -1,0 +1,99 @@
+commit b2a4be091667b170e072f3a0da5be8940645c9d6
+Merge: e38ffdf e4d199d
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Wed Aug 10 18:15:52 2022 -0500
+
+    resuelto
+
+commit e38ffdf1a5fb1713c4a69c203e46ae98f026e25a
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Wed Aug 10 18:07:27 2022 -0500
+
+    añadi estaciones del año con fecha
+
+commit e4d199d426860f25a3a27d4e109f90a812190bbb
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Wed Aug 10 18:07:27 2022 -0500
+
+    añadi las estaciones del año
+
+commit 82540ec98f740caca13fc96d176fe95df8c6c5e6
+Merge: e2305fb 217d425
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Wed Aug 10 17:43:44 2022 -0500
+
+    solucion
+
+commit 217d4252418f0e9c8fb6c09e2c22a6acfd5c3ae7
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Wed Aug 10 17:38:31 2022 -0500
+
+    modificacion
+
+commit e2305fb99e36b79647552e310d7b18fef10c62af
+Merge: d9d8b13 beaf43d
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Wed Aug 10 17:34:42 2022 -0500
+
+    borro todo
+
+commit beaf43daf8e10379beb3c1cf9d17b78e106968e8
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Wed Aug 10 17:33:27 2022 -0500
+
+    merge de archivo sin conflicto
+
+commit d9d8b13f1dbbac712ca9f32eb196e43c98759674
+Merge: fdb5e77 ba5fe3b
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Wed Aug 10 17:31:25 2022 -0500
+
+    conflicto manual resuelto
+
+commit fdb5e7755a3aa92eba9866ab2aef1a4d1bc5effd
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Wed Aug 10 17:29:59 2022 -0500
+
+    Agrego parrafo desde rama main
+
+commit ba5fe3b0383eed2751375c65bd1e8ea48649d158
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Wed Aug 10 17:27:32 2022 -0500
+
+    agrego parrafo desde rama web
+
+commit f31d10318d6246c0b8f9867a502846a8da3b253e
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Wed Aug 10 12:32:36 2022 -0500
+
+    Nuevo cambio en la rama web documento index
+
+commit 183abd197975da1b957b572c7c0c04f9ca7a3445
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Wed Aug 10 12:29:12 2022 -0500
+
+    Test with another branch
+
+commit 18cca6fa3b2024944233fbcabb341d36a85e59b7
+Author: AndreBRZ98 <107654702+AndreBRZ98@users.noreply.github.com>
+Date:   Tue Aug 9 15:04:45 2022 -0500
+
+    Creating license of repository
+
+commit 7c786ae6225038b5a33e0572e236ac7a79499cfc
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Tue Aug 9 14:59:03 2022 -0500
+
+    Adding more content
+
+commit 42722f78be4548ab229981ff4a1da2d11b027426
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Tue Aug 9 12:33:19 2022 -0500
+
+    adding initial content to readme
+
+commit d5e7445038138e6d203ed2ec77884de10aa82bd3
+Author: Andre Barraza <andre.2014180024@gmail.com>
+Date:   Tue Aug 9 12:29:08 2022 -0500
+
+    My first commit
