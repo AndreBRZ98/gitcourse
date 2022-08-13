@@ -1,4 +1,4 @@
-CREATE TABLE Padre(
+CREATE TABLE Papa(
     id_padre INT,
     nombre VARCHAR(50),
     apellido_paterno VARCHAR(25),
